@@ -1,0 +1,11 @@
+﻿Python-docx
+pandas
+openpyxl
+xlrd
+PyMuPDF
+tiktoken
+chromadb
+sentence-transformers
+argostranslate
+transformers
+rouge-score
