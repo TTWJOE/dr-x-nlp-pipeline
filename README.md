@@ -92,6 +92,12 @@ Dr. X’s final study focused on zero-point energy manipulation using ancient re
 pip install -r requirements.txt
 ```
 
+### Setup Ollama
+- install Ollama: https://ollama.com/download
+```bash
+ollama pull tinyllama
+```
+
 ### Run Embedding
 ```bash
 python embedding_pipeline.py
